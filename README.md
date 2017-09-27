@@ -1,0 +1,2 @@
+# NotWriteStartActivity
+不想写startActivity
