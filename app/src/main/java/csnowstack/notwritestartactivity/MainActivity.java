@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         findViewById(R.id.txt).setOnClickListener(new View.OnClickListener() {
             @Override public void onClick(View view) {
-                csnowstack.notwritestartactivity.NextActivity_Start.start(MainActivity.this,
+             csnowstack.notwritestartactivity.NextActivity_Start.start(MainActivity.this,
                         "我不想写StartActivityForResult");
 
             }
